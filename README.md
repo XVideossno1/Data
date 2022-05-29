@@ -10,4 +10,4 @@ CREATE TABLE `user` (
 
 
 INSERT INTO `user` VALUES (1, 'aaa', '47bce5c74f589f4867dbd57e9ca9f808', 'aaa', 'aaa', 'A');
-INSERT INTO `user` VALUES (2, 'bbb', '08f8e0260c64418510cefb2b06eee5cd', 'bbbb', 'bbbb','M');# Data
+INSERT INTO `user` VALUES (2, 'bbb', '08f8e0260c64418510cefb2b06eee5cd', 'bbbb', 'bbbb','M');
